@@ -1,30 +1,39 @@
 ### Wasup Coder! 👨🏽‍💻🐱‍💻
+# Stats
 <div>
   <a href="https://github.com/Camilo-neck">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Camilo-neck&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true&&title_color=\"#FF0000\""/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Camilo-neck&layout=compact&langs_count=7&theme=onedark"/>
+  <div align="center">
+    <img height=200 align="center" src ="https://github-readme-stats.vercel.app/api?username=Camilo-neck&show_icons=true&theme=aura&rank_icon=github"/>
+    <img height=200 align="center" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Camilo-neck&layout=donut&theme=aura">
+  </div>
+    
+  ![trophy](https://github-profile-trophy.vercel.app/?username=Camilo-neck&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
 </div>
+    
+# Skills
+
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=javascript,typescript,react,next,tailwind,bootstrap,css,html,python,rust,express,nest,java,matlab,npm,pnpm,bun,p5js,flask,fastapi,nodejs,mysql,mongo,postgres,vite,latex&perline=9" />
+    </a>
+  </p>
   <img width=30% height=30% align="right" alt="My-life" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif">
 </div>
  
    ##
- 
+
+**Tech Stack**
 <div> 
-  <a href="https://www.linkedin.com/in/camilo-andres-a833a51b2/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="#"><img src="https://img.shields.io/badge/Made%20with-VSCode-1f425f.svg" target="_blank"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" target="_blank"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" target="_blank"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" target="_blank"></a>
- 
+  <a href="https://www.linkedin.com/in/camilo-cuello/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+   <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=git,github,bitbucket,vscode,neovim,postman,idea,linux,arch,kali,azure,aws,docker&perline=12" />
+    </a>
+
+  <div align="center">
+    
   ![Snake animation](https://github.com/Camilo-neck/Camilo-neck/blob/output/github-contribution-grid-snake.svg)
+  </div>
  
 </div>
 <!--
