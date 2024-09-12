@@ -4,7 +4,7 @@
   <a href="https://github.com/Camilo-neck">
   <div align="center">
     <img height=200 align="center" src ="https://github-readme-stats.vercel.app/api?username=Camilo-neck&show_icons=true&theme=aura&rank_icon=github"/>
-    <img height=200 align="center" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Camilo-neck&layout=donut&theme=aura&hide=jupyter">
+    <img height=200 align="center" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Camilo-neck&layout=donut&theme=aura&hide=qml,html,css,jupyter">
   </div>
     
   ![trophy](https://github-profile-trophy.vercel.app/?username=Camilo-neck&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
