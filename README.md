@@ -15,7 +15,7 @@
 <div style="display: inline_block"><br>
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=javascript,typescript,react,next,tailwind,bootstrap,css,html,python,rust,express,nest,java,matlab,npm,pnpm,bun,p5js,flask,fastapi,nodejs,mysql,mongo,postgres,vite,latex&perline=9" />
+      <img src="https://skillicons.dev/icons?i=javascript,typescript,react,next,tailwind,bootstrap,css,html,python,rust,rocket,dotnet,express,nest,java,matlab,npm,pnpm,bun,p5js,flask,fastapi,nodejs,mysql,mongo,postgres,vite,latex&perline=9" />
     </a>
   </p>
   <img width=30% height=30% align="right" alt="My-life" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif">
